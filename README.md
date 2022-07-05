@@ -15,7 +15,10 @@
 <p align="left">
 <a href="https://twitter.com/gtmulhearn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gtmulhearn" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gmulhearn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gmulhearn" height="30" width="40"/></a>
+<a href="https://medium.com/@gmulhearn" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/medium.svg" alt="gmulhearn" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/19486870/george-mulhearn" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/stack-overflow.svg" alt="gmulhearn" height="40" width="40" /></a>
 </p>
+
 <details>
  <summary><b>📊&nbsp;&nbsp;Some of My Stats</b></summary>
 
