@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 - :briefcase: &nbsp;Software Engineer at [Anonyome Labs](https://anonyome.com/)
 - 🔭 &nbsp;I'm currently working on everything dApps!
-- 🌱 &nbsp;I'm currently learning React Native, ICP
+- 🌱 &nbsp;I'm currently learning React Native, Electron, ICP
 - 💬 &nbsp;Ask me about anything web3 :wink:
 - 📫 &nbsp;How to reach me: [@gtmulhearn](https://twitter.com/gtmulhearn)
 - 👨‍💻 &nbsp;My current favourite tech:
