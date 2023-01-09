@@ -1,12 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 - :briefcase: &nbsp;Software Engineer at [Anonyome Labs](https://anonyome.com/)
-- 🔭 &nbsp;I'm currently working on everything dApps!
-- 🌱 &nbsp;I'm currently learning React Native, Electron, ICP
-- 💬 &nbsp;Ask me about anything web3 :wink:
 - 📫 &nbsp;How to reach me: [@gtmulhearn](https://twitter.com/gtmulhearn)
-- 👨‍💻 &nbsp;My current favourite tech:
-  - :computer: &nbsp;React/NextJS
+- 👨‍💻 &nbsp;Favourite tech:
   - :crab: &nbsp;Rust
+  - :computer: &nbsp;React/NextJS
   - :page_facing_up: &nbsp;EVM Smart Contracts
   - :coin: &nbsp;dApps
   
@@ -20,7 +17,7 @@
 </p>
 
 <details>
- <summary><b>📊&nbsp;&nbsp;Some of My Stats</b></summary>
+ <summary><b>📊&nbsp;&nbsp;Some Stats</b></summary>
 
 ![GMulhearns's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmulhearn&showicons=true&theme=tokyonight)
 </details>
